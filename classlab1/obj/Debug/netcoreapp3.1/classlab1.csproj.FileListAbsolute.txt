@@ -1,0 +1,11 @@
+C:\Users\Человек\Desktop\project\classlab1\classlab1\bin\Debug\netcoreapp3.1\classlab1.exe
+C:\Users\Человек\Desktop\project\classlab1\classlab1\bin\Debug\netcoreapp3.1\classlab1.deps.json
+C:\Users\Человек\Desktop\project\classlab1\classlab1\bin\Debug\netcoreapp3.1\classlab1.runtimeconfig.json
+C:\Users\Человек\Desktop\project\classlab1\classlab1\bin\Debug\netcoreapp3.1\classlab1.runtimeconfig.dev.json
+C:\Users\Человек\Desktop\project\classlab1\classlab1\bin\Debug\netcoreapp3.1\classlab1.dll
+C:\Users\Человек\Desktop\project\classlab1\classlab1\bin\Debug\netcoreapp3.1\classlab1.pdb
+C:\Users\Человек\Desktop\project\classlab1\classlab1\obj\Debug\netcoreapp3.1\classlab1.csprojAssemblyReference.cache
+C:\Users\Человек\Desktop\project\classlab1\classlab1\obj\Debug\netcoreapp3.1\classlab1.AssemblyInfoInputs.cache
+C:\Users\Человек\Desktop\project\classlab1\classlab1\obj\Debug\netcoreapp3.1\classlab1.AssemblyInfo.cs
+C:\Users\Человек\Desktop\project\classlab1\classlab1\obj\Debug\netcoreapp3.1\classlab1.dll
+C:\Users\Человек\Desktop\project\classlab1\classlab1\obj\Debug\netcoreapp3.1\classlab1.pdb
